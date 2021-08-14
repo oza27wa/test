@@ -1,3 +1,1 @@
-a
-bc
-ABC
+del and ins line
