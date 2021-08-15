@@ -1,1 +1,3 @@
 del and ins line
+// 今回の追加分 test2.txtに2行目以降を追加しています。
+more line add
